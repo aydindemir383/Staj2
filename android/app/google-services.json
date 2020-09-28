@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734916724996",
+    "firebase_url": "https://flutter-45cce.firebaseio.com",
+    "project_id": "flutter-45cce",
+    "storage_bucket": "flutter-45cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734916724996:android:3c90271820555737dda851",
+        "android_client_info": {
+          "package_name": "com.example.staj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734916724996-2v418riefo7ve7mrfmnssjch75kfqn4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC166MHJJ6n4rcYCaxBBbyBDhvSHOVSVlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734916724996-2v418riefo7ve7mrfmnssjch75kfqn4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
